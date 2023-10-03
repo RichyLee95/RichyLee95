@@ -1,6 +1,7 @@
 ### Hi there 👋
 My name is Richard and welcome to my Github page!
 I am a Full Stack Software Engineer with a passion to learn new things. I also like to train Brazillian Jiu-Jitsu,go camping, and workout in my free time.
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <!--
 **RichyLee95/RichyLee95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
